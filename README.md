@@ -7,5 +7,5 @@
 
 # TaskList
 - [ ] Read 1+ Chapter of Professional Book
-- [ ] Read 1+ Book
+- [x] Read 1+ Book
 - [ ] Everyday Workout
